@@ -15,5 +15,5 @@ exports.subject_email = "Pemalas APi | Verification";
  */
 exports.mongoUrl =
   "mongodb+srv://Guze:Guze@cluster0.orxyo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
-exports.dbGet = "pemalasapi";
+exports.dbGet = "Guze";
 exports.msgSuccesConnect = "Connected correctly to server";
