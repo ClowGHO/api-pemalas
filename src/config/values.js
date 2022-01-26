@@ -2,8 +2,8 @@
  * Configurasi email
  */
 exports.service = "gmail";
-exports.umail = "your-email@gmail.com";
-exports.upass = "YourPassword";
+exports.umail = "aguzunn999@gmail.com";
+exports.upass = "ekaaditya17";
 
 /*
  * Configurasi sending verification
