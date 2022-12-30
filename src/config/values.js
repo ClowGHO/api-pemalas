@@ -14,6 +14,6 @@ exports.subject_email = "Pemalas APi | Verification";
  * Configurasi database
  */
 exports.mongoUrl =
-  "mongodb+srv://pemalasapi:ekaaditya17@cluster0.krrrk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+  "mongodb+srv://Ghofamsteam:biling8787@cluster0.pp0m0.mongodb.net/?retryWrites=true&w=majority";
 exports.dbGet = "pemalasapi";
 exports.msgSuccesConnect = "Connected correctly to server";
